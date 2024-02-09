@@ -91,7 +91,7 @@ export function NewNoteCard({ onNoteCreated }: NewNoteProps) {
           Adicionar nota
         </span>
 
-        <p className="text-sm leading-6 text-slate-400">
+        <p className="text-xs leading-6 text-slate-400">
           Grave uma nota em áudio que será convertida para texto
           automaticamente.
         </p>
